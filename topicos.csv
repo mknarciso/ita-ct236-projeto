@@ -1,195 +1,195 @@
 source;target;label;type
-FIS-50;FIS-46;topico;undirected
-HUM-21;HUM-20;topico;undirected
-HUM-41;HUM-40;topico;undirected
-HUM-82;HUM-22;topico;undirected
-HUM-82;HUM-23;topico;undirected
-MAT-22;MAT-12;topico;undirected
-MAT-27;MAT-17;topico;undirected
-MAT-42;MAT-32;topico;undirected
-MAT-46;MAT-12;topico;undirected
-AED-25;AED-01;topico;undirected
-AED-27;AED-11;topico;undirected
-AED-27;AED-25;topico;undirected
-MVO-32;MVO-20;topico;undirected
-MVO-53;MVO-52;topico;undirected
-PRP-28;AED-01;topico;undirected
-PRP-40;PRP-38;topico;undirected
-PRP-41;PRP-38;topico;undirected
-PRP-41;PRP-40;topico;undirected
-PRP-47;PRP-41;topico;undirected
-PRP-52;PRP-41;topico;undirected
-PRP-56;PRP-38;topico;undirected
-PRP-56;PRP-40;topico;undirected
-PRP-56;PRP-41;topico;undirected
-EST-24;EST-15;topico;undirected
-EST-43;EST-15;topico;undirected
-PRJ-30;AED-37;topico;undirected
-PRJ-30;PRP-41;topico;undirected
-PRJ-30;PRJ-22;topico;undirected
-PRJ-30;PRJ-29;topico;undirected
-PRJ-44;AED-37;topico;undirected
-PRJ-44;PRJ-22;topico;undirected
-PRJ-44;PRJ-29;topico;undirected
-PRJ-44;PRJ-30;topico;undirected
-PRJ-73;PRJ-30;topico;undirected
-PRJ-85;PRJ-60;topico;undirected
-PRJ-87;PRP-41;topico;undirected
-PRJ-87;PRJ-23;topico;undirected
-SIS-04;MVO-65;topico;undirected
-SIS-04;PRJ-30;topico;undirected
-SIS-04;PRJ-44;topico;undirected
-ASE-10;MVO-52;topico;undirected
-ASE-10;MVO-53;topico;undirected
-ASP-06;FIS-32;topico;undirected
-ASP-06;PRJ-73;topico;undirected
-ASP-17;PRJ-30;topico;undirected
-EES-60;ASE-10;topico;undirected
-EEA-02;MAT-32;topico;undirected
-EEA-21;EEA-02;topico;undirected
-ELE-16;EEA-45;topico;undirected
-ELE-16;EEA-46;topico;undirected
-ELE-16;EEA-47;topico;undirected
-ELE-27;EEA-47;topico;undirected
-ELE-27;ELE-16;topico;undirected
-ELE-59;EEA-46;topico;undirected
-EEM-14;EEM-10;topico;undirected
-EES-10;EST-56;topico;undirected
-EES-20;MVO-32;topico;undirected
-EES-20;EES-10;topico;undirected
-EES-30;FIS-32;topico;undirected
-EES-30;PRP-38;topico;undirected
-EES-60;ASE-10;topico;undirected
-EES-60;EES-60;topico;undirected
-EES-90;PRJ-23;topico;undirected
-EES-90;SIS-04;topico;undirected
-EET-01;MAT-12;topico;undirected
-EET-01;MAT-27;topico;undirected
-EET-01;MAT-32;topico;undirected
-EET-01;MAT-42;topico;undirected
-EET-01;EEA-05;topico;undirected
-EET-01;EES-10;topico;undirected
-EET-01;EES-20;topico;undirected
-EET-41;EES-10;topico;undirected
-EET-41;EES-20;topico;undirected
-EET-41;EET-01;topico;undirected
-EET-46;FIS-80;topico;undirected
-EET-50;EET-01;topico;undirected
-EET-50;EET-41;topico;undirected
-EET-50;EET-46;topico;undirected
-EET-62;EET-61;topico;undirected
-ELE-32;EET-01;topico;undirected
-ELE-32;EET-41;topico;undirected
-ELE-32;EET-50;topico;undirected
-ELE-48;EES-10;topico;undirected
-ELE-48;EES-20;topico;undirected
-ELE-48;EET-01;topico;undirected
-ELE-48;EET-41;topico;undirected
-ELE-48;EET-50;topico;undirected
-ELE-48;ELE-32;topico;undirected
-ELE-82;FIS-80;topico;undirected
-ELE-82;ELE-26;topico;undirected
-MOG-67;PRJ-23;topico;undirected
-MOG-67;SIS-06;topico;undirected
-MOQ-13;EET-61;topico;undirected
-MOQ-15;SIS-06;topico;undirected
-MOQ-15;MOG-61;topico;undirected
-MEB-14;AED-01;topico;undirected
-MEB-25;PRP-28;topico;undirected
-MEB-26;PRP-28;topico;undirected
-MEB-26;MEB-25;topico;undirected
-MMT-02;PRP-38;topico;undirected
-MMT-02;PRP-40;topico;undirected
-MMT-02;PRP-41;topico;undirected
-MMT-05;MMT-02;topico;undirected
-MPD-42;EST-56;topico;undirected
-MPD-42;ELE-26;topico;undirected
-MTM-30;EST-25;topico;undirected
-MTM-30;MPD-43;topico;undirected
-MTM-30;MTM-15;topico;undirected
-MTM-31;MPD-43;topico;undirected
-MTM-31;MTM-30;topico;undirected
-MTM-35;EET-01;topico;undirected
-MTM-35;MTM-15;topico;undirected
-MTM-35;MTM-25;topico;undirected
-MTM-35;MTM-30;topico;undirected
-MTP-34;EET-41;topico;undirected
-MPS-22;MAT-32;topico;undirected
-MPS-22;MVO-20;topico;undirected
-MPS-22;EST-56;topico;undirected
-MPS-22;SIS-04;topico;undirected
-MPS-22;SIS-06;topico;undirected
-MPS-22;EES-10;topico;undirected
-MPS-22;EES-20;topico;undirected
-MPS-22;EES-90;topico;undirected
-MPS-22;EET-01;topico;undirected
-MPS-22;EET-41;topico;undirected
-MPS-22;EET-50;topico;undirected
-MPS-22;ELE-32;topico;undirected
-MPS-22;ELE-48;topico;undirected
-MPS-30;MPS-30;topico;undirected
-MPS-36;EST-56;topico;undirected
-MPS-36;MPS-22;topico;undirected
-MPS-39;EST-56;topico;undirected
-MPS-39;PRJ-23;topico;undirected
-MPS-39;EES-90;topico;undirected
-MPS-39;EET-01;topico;undirected
-MPS-39;MPD-43;topico;undirected
-MPS-39;MPS-22;topico;undirected
-MPS-39;MPS-36;topico;undirected
-MPS-43;MVO-20;topico;undirected
-MPS-43;MVO-32;topico;undirected
-MPS-43;PRJ-30;topico;undirected
-MPS-43;PRJ-44;topico;undirected
-MPS-43;EES-10;topico;undirected
-MPS-43;EES-20;topico;undirected
-MPS-43;EET-41;topico;undirected
-MPS-43;MPS-22;topico;undirected
-CIV-32;CIV-31;topico;undirected
-CIV-41;CIV-31;topico;undirected
-CIV-41;CIV-32;topico;undirected
-CIV-42;CIV-31;topico;undirected
-CIV-42;CIV-32;topico;undirected
-CIV-42;CIV-41;topico;undirected
-CIV-51;CIV-31;topico;undirected
-CIV-51;CIV-32;topico;undirected
-CIV-51;CIV-41;topico;undirected
-CIV-51;CIV-42;topico;undirected
-CIV-52;CIV-31;topico;undirected
-CIV-52;CIV-32;topico;undirected
-CIV-52;CIV-41;topico;undirected
-CIV-52;CIV-42;topico;undirected
-CIV-52;CIV-51;topico;undirected
-EDI-34;EEA-02;topico;undirected
-EDI-34;EEA-47;topico;undirected
-EDI-34;EEA-48;topico;undirected
-EDI-34;ELE-16;topico;undirected
-EDI-34;ELE-27;topico;undirected
-EDI-34;EES-30;topico;undirected
-EDI-34;MPD-43;topico;undirected
-EDI-34;MTM-31;topico;undirected
-EDI-48;AED-37;topico;undirected
-GEO-47;FIS-80;topico;undirected
-GEO-48;MPD-43;topico;undirected
-GEO-48;MTM-31;topico;undirected
-HID-31;MEB-14;topico;undirected
-HID-44;FIS-80;topico;undirected
-HID-63;PRP-50;topico;undirected
-HID-63;HID-53;topico;undirected
-HID-65;HID-53;topico;undirected
-HID-65;HID-63;topico;undirected
-TRA-64;ELE-26;topico;undirected
-CES-33;EET-41;topico;undirected
-CES-33;ELE-48;topico;undirected
-CES-33;MPS-22;topico;undirected
-CES-33;MPS-39;topico;undirected
-CCI-37;PRJ-80;topico;undirected
-CCI-38;PRJ-80;topico;undirected
-CCI-38;CCI-37;topico;undirected
-CES-46;MVO-61;topico;undirected
-CES-65;SIS-04;topico;undirected
-CES-65;ELE-27;topico;undirected
-CES-65;MPS-22;topico;undirected
-CES-65;MPS-39;topico;undirected
-CES-65;CES-29;topico;undirected
-CTC-21;CTC-11;topico;undirected
+FIS-50 FIS-46
+HUM-21 HUM-20
+HUM-41 HUM-40
+HUM-82 HUM-22
+HUM-82 HUM-23
+MAT-22 MAT-12
+MAT-27 MAT-17
+MAT-42 MAT-32
+MAT-46 MAT-12
+AED-25 AED-01
+AED-27 AED-11
+AED-27 AED-25
+MVO-32 MVO-20
+MVO-53 MVO-52
+PRP-28 AED-01
+PRP-40 PRP-38
+PRP-41 PRP-38
+PRP-41 PRP-40
+PRP-47 PRP-41
+PRP-52 PRP-41
+PRP-56 PRP-38
+PRP-56 PRP-40
+PRP-56 PRP-41
+EST-24 EST-15
+EST-43 EST-15
+PRJ-30 AED-37
+PRJ-30 PRP-41
+PRJ-30 PRJ-22
+PRJ-30 PRJ-29
+PRJ-44 AED-37
+PRJ-44 PRJ-22
+PRJ-44 PRJ-29
+PRJ-44 PRJ-30
+PRJ-73 PRJ-30
+PRJ-85 PRJ-60
+PRJ-87 PRP-41
+PRJ-87 PRJ-23
+SIS-04 MVO-65
+SIS-04 PRJ-30
+SIS-04 PRJ-44
+ASE-10 MVO-52
+ASE-10 MVO-53
+ASP-06 FIS-32
+ASP-06 PRJ-73
+ASP-17 PRJ-30
+EES-60 ASE-10
+EEA-02 MAT-32
+EEA-21 EEA-02
+ELE-16 EEA-45
+ELE-16 EEA-46
+ELE-16 EEA-47
+ELE-27 EEA-47
+ELE-27 ELE-16
+ELE-59 EEA-46
+EEM-14 EEM-10
+EES-10 EST-56
+EES-20 MVO-32
+EES-20 EES-10
+EES-30 FIS-32
+EES-30 PRP-38
+EES-60 ASE-10
+EES-60 EES-60
+EES-90 PRJ-23
+EES-90 SIS-04
+EET-01 MAT-12
+EET-01 MAT-27
+EET-01 MAT-32
+EET-01 MAT-42
+EET-01 EEA-05
+EET-01 EES-10
+EET-01 EES-20
+EET-41 EES-10
+EET-41 EES-20
+EET-41 EET-01
+EET-46 FIS-80
+EET-50 EET-01
+EET-50 EET-41
+EET-50 EET-46
+EET-62 EET-61
+ELE-32 EET-01
+ELE-32 EET-41
+ELE-32 EET-50
+ELE-48 EES-10
+ELE-48 EES-20
+ELE-48 EET-01
+ELE-48 EET-41
+ELE-48 EET-50
+ELE-48 ELE-32
+ELE-82 FIS-80
+ELE-82 ELE-26
+MOG-67 PRJ-23
+MOG-67 SIS-06
+MOQ-13 EET-61
+MOQ-15 SIS-06
+MOQ-15 MOG-61
+MEB-14 AED-01
+MEB-25 PRP-28
+MEB-26 PRP-28
+MEB-26 MEB-25
+MMT-02 PRP-38
+MMT-02 PRP-40
+MMT-02 PRP-41
+MMT-05 MMT-02
+MPD-42 EST-56
+MPD-42 ELE-26
+MTM-30 EST-25
+MTM-30 MPD-43
+MTM-30 MTM-15
+MTM-31 MPD-43
+MTM-31 MTM-30
+MTM-35 EET-01
+MTM-35 MTM-15
+MTM-35 MTM-25
+MTM-35 MTM-30
+MTP-34 EET-41
+MPS-22 MAT-32
+MPS-22 MVO-20
+MPS-22 EST-56
+MPS-22 SIS-04
+MPS-22 SIS-06
+MPS-22 EES-10
+MPS-22 EES-20
+MPS-22 EES-90
+MPS-22 EET-01
+MPS-22 EET-41
+MPS-22 EET-50
+MPS-22 ELE-32
+MPS-22 ELE-48
+MPS-30 MPS-30
+MPS-36 EST-56
+MPS-36 MPS-22
+MPS-39 EST-56
+MPS-39 PRJ-23
+MPS-39 EES-90
+MPS-39 EET-01
+MPS-39 MPD-43
+MPS-39 MPS-22
+MPS-39 MPS-36
+MPS-43 MVO-20
+MPS-43 MVO-32
+MPS-43 PRJ-30
+MPS-43 PRJ-44
+MPS-43 EES-10
+MPS-43 EES-20
+MPS-43 EET-41
+MPS-43 MPS-22
+CIV-32 CIV-31
+CIV-41 CIV-31
+CIV-41 CIV-32
+CIV-42 CIV-31
+CIV-42 CIV-32
+CIV-42 CIV-41
+CIV-51 CIV-31
+CIV-51 CIV-32
+CIV-51 CIV-41
+CIV-51 CIV-42
+CIV-52 CIV-31
+CIV-52 CIV-32
+CIV-52 CIV-41
+CIV-52 CIV-42
+CIV-52 CIV-51
+EDI-34 EEA-02
+EDI-34 EEA-47
+EDI-34 EEA-48
+EDI-34 ELE-16
+EDI-34 ELE-27
+EDI-34 EES-30
+EDI-34 MPD-43
+EDI-34 MTM-31
+EDI-48 AED-37
+GEO-47 FIS-80
+GEO-48 MPD-43
+GEO-48 MTM-31
+HID-31 MEB-14
+HID-44 FIS-80
+HID-63 PRP-50
+HID-63 HID-53
+HID-65 HID-53
+HID-65 HID-63
+TRA-64 ELE-26
+CES-33 EET-41
+CES-33 ELE-48
+CES-33 MPS-22
+CES-33 MPS-39
+CCI-37 PRJ-80
+CCI-38 PRJ-80
+CCI-38 CCI-37
+CES-46 MVO-61
+CES-65 SIS-04
+CES-65 ELE-27
+CES-65 MPS-22
+CES-65 MPS-39
+CES-65 CES-29
+CTC-21 CTC-11
