@@ -1,0 +1,40 @@
+GEO-53 - ENGENHARIA DE FUNDAÇÕES. Requisito: GEO-45. Horas semanais: 2-0-1-3. Fatores a serem 
+considerados  e  sistemática  do  projeto  de  fundações.  Exploração  do  subsolo.  Tipos  de  fundações  e  aspectos 
+construtivos. Capacidade de carga e recalque de fundações rasas e profundas. Projeto de fundações rasas. Projeto de 
+fundações  profundas.  Dimensionamento  geométrico  dos  elementos  de  fundações.  Projetos  determinísticos  e 
+probabilísticos. Reforço de fundações. Bibliografia: HACHICH, W. et al. Fundações: teoria e prática. São Paulo: 
+Pini, 1996. SCHNAID, F. Ensaios de campo e suas aplicações à engenharia de fundações. São Paulo: Oficina de 
+Textos,  2000.  TOMLINSON,  M.  J.;  BOORMAN,  I.  R.  Foundation  design  and  construction.  7.  ed.  London: 
+Longman Group, 2001.
+  
+{
+	"materia":{
+		"cod": "GEO-53",
+		"titulo": "ENGENHARIA DE FUNDAÇÕES",
+		"requisitos": ["GEO-45"],
+		"horas": "2-0-1-3",
+		"topicos": [
+			"Fatores a serem considerados  e  sistemática  do  projeto  de  fundações.",
+			"Exploração  do  subsolo.",
+			"Tipos  de  fundações  e  aspectos construtivos.",
+			"Capacidade de carga e recalque de fundações rasas e profundas.",
+			"Projeto de fundações rasas.",
+			"Projeto de fundações  profundas.",
+			"Dimensionamento  geométrico  dos  elementos  de  fundações.",
+			"Projetos  determinísticos e probabilísticos.",
+			" Reforço de fundações."
+		],
+		"bibliografia":[
+			{
+				"autor" : "HACHICH, W. et al.", 
+				"publi" : "Fundações: teoria e prática. São Paulo: Pini, 1996."
+			},{
+				"autor" : "SCHNAID, F.", 
+				"publi" : "Ensaios de campo e suas aplicações à engenharia de fundações. São Paulo: Oficina de Textos,  2000."
+			},{
+				"autor" : ["TOMLINSON,  M.  J.", "BOORMAN,  I.  R."], 
+				"publi" : "Foundation  design  and  construction.  7.  ed.  London: Longman Group, 2001."
+			}
+		]
+	}
+}
