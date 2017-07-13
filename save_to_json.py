@@ -13,7 +13,7 @@ for line in f:
 	if not emptyline.match(line):
 		#materias.append(line)
 		cod = re.search('([A-Z]{3}\-[0-9]{2})[ -]*([A-Z, \-()0-9/]*)', line)
-		req = re.search('[Rr]equisito[s]{0,1} *: *([A-Z, \-()0-9/]*).', line)
+		req = re.search('[Rr]equisito[s]{0,1} *: *([A-Z,eou \-()0-9/]*).', line)
 		item = {'titulo':cod.group(2),'cod': cod.group(1)}
 		horas = re.search('[hH]oras [sS]emanais: *([0-9]+) *- *([0-9]+) *- *([0-9]+) *- *([0-9]+)', line)
 		alltopics = re.search('[hH]oras [sS]emanais: *[0-9]+ *- *[0-9]+ *- *[0-9]+ *- *[0-9]+\.(.*)[bB]ibliografia', line)
@@ -59,7 +59,7 @@ for line in f:
 		#parcial = ""
 
 #with io.open("separado.json", 'w', encoding="latin1") as outfile:
-with io.open("separado.json", 'w') as outfile:
+with io.open("separado2.json", 'w') as outfile:
     outfile.write(unicode(json.dumps(materias, ensure_ascii=False)))
     #json.dump(materias, outfile)
 f.close
