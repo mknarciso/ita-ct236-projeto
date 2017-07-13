@@ -44,9 +44,9 @@ for line in f:
 			autores = auth.findall(bibl.group(1))
 			list_autores = []
 			for aut in autores:
-				list_autores.append(aut[0].upper())
+				list_autores.append(aut[0].upper().strip())
 			#print list_autores
-			item.update({'autores':list_autores})
+			item.update({'autores':list(set(list_autores))})
 		materias.append(item)
 		#print materias
 		#parcial = parcial + line
