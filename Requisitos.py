@@ -52,8 +52,8 @@ for i in range(1, len(data)):
                 if aux >= CORRELATION_THRESHOLD:
                     correlacao[i][j]=1
                     #print(data[i]['cod']+";"+data[j]['cod'])
-                    #result=result+data[i]['cod']+";"+data[j]['cod']+";topico;undirected\n"
-                    result = result + data[i]['cod'] + " " + data[j]['cod'] + "\n"
+                    result=result+data[i]['cod']+";"+data[j]['cod']+";topico;undirected\n"
+                    #result = result + data[i]['cod'] + " " + data[j]['cod'] + "\n"
 
 with io.open("topicos.csv", 'w') as outfile:
     outfile.write(result)

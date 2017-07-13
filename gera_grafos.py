@@ -27,5 +27,5 @@ for i, materia in enumerate(materias):
 								result+=";\n"
 
 
-with io.open("requisitos.csv", 'w') as outfile:
+with io.open("aut_e_req.csv", 'w') as outfile:
     outfile.write(result)
